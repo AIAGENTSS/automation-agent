@@ -1,1 +1,5 @@
-# No external dependencies needed for this basic agent
+PyYAML
+schedule
+flask
+requests
+slack_sdk
